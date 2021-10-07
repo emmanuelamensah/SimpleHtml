@@ -1,0 +1,2 @@
+This is an html page that speaks abou me and my works.
+It talks about the skills i have and how i used them in making this HTML page that you are viewing.
